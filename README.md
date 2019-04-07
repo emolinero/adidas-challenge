@@ -10,7 +10,7 @@
 
 # Usage
 
-Clone git repository from: https://github.com/emolinero/adidasChallenge
+Clone git repository from: https://github.com/emolinero/adidas-Challenge
 
 A folder structure representeing each module:
 * subscriptionService: Main Service, receiving subscription requests and acting according to them for incoming events
